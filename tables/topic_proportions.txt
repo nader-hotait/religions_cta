@@ -1,0 +1,13 @@
+# A tibble: 10 x 3
+   `Topic #` `Topic Proportions` `Top Words`                                     
+   <chr>     <chr>               <chr>                                           
+ 1 1         9%                  get, know, face, need, boy, demolish, call, off~
+ 2 2         15%                 bomb, crime, call, terrorist, strike, dead, tor~
+ 3 3         20%                 deutsch, macht, regierung, millionen, viel, kom~
+ 4 4         16%                 europa, frankreich, kopftuch, eltern, flüchtlin~
+ 5 5         6%                  use, support, uyghur, famili, target, brother, ~
+ 6 6         7%                  prison, part, account, islam, state, news, ban,~
+ 7 7         5%                  artikel, tage, westlich, extremist, generat, ah~
+ 8 8         7%                  destroy, watch, arrest, girl, attack, camp, gro~
+ 9 9         5%                  brutal, protest, villag, murder, imam, intern, ~
+10 10        9%                  palästina, nazi, palästinens, nachdem, zionisti~

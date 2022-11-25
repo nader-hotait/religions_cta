@@ -1,0 +1,36 @@
+﻿Scopus-125886-Analyze-Subject
+
+"Your query : (TITLE-ABS-KEY (""quantitative text"" OR ""computational text"" OR ""natural language processing"" OR ""quantitative content analysis"" OR ""quantitative content analyses"") OR TITLE-ABS-KEY(""sentiment analysis"" OR ""sentiment analyses"" OR ""named entity recognition"" OR ""topic model"" OR ""topic modeling"" OR ""topic models"") OR TITLE-ABS-KEY(""text classification"" OR ""key word extraction"" OR ""lemmatization"" OR ""word embedding""))"
+
+
+Number of results : 125886
+
+"SUBJECT AREA",
+"Computer Science","97580"
+"Engineering","27419"
+"Mathematics","24937"
+"Social Sciences","20677"
+"Arts and Humanities","12832"
+"Medicine","9778"
+"Decision Sciences","9676"
+"Business, Management and Accounting","4829"
+"Physics and Astronomy","3685"
+"Materials Science","2508"
+"Biochemistry, Genetics and Molecular Biology","2491"
+"Health Professions","1888"
+"Energy","1820"
+"Environmental Science","1454"
+"Neuroscience","1340"
+"Psychology","1215"
+"Multidisciplinary","985"
+"Chemical Engineering","837"
+"Economics, Econometrics and Finance","781"
+"Earth and Planetary Sciences","739"
+"Agricultural and Biological Sciences","709"
+"Chemistry","513"
+"Nursing","343"
+"Pharmacology, Toxicology and Pharmaceutics","331"
+"Immunology and Microbiology","220"
+"Veterinary","25"
+"Dentistry","12"
+"Undefined","44"

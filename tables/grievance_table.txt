@@ -1,0 +1,8 @@
+# A tibble: 4 x 4
+# Groups:   account [2]
+  account  grievance     n freq 
+  <chr>    <lgl>     <int> <chr>
+1 genislam FALSE      1864 60%  
+2 genislam TRUE       1268 40%  
+3 other    FALSE      7566 91%  
+4 other    TRUE        727 9%   

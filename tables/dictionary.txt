@@ -1,0 +1,30 @@
+   middle_east other_grievances     defence     hijab racism_islamophobia
+1      israel*            china    verteid* kopftuch*             rassis*
+2      palest*          chines*     resist*    scarf*               race*
+3       paläs*           uigur*      defen*    niqab*              racis*
+4    jerusalem          uyghur* widerstand*   jilbab*            discrim*
+5         aqsa            camp*      battl*    hijab*            diskrim*
+6    west bank           hindu*     wehren*    shador               nazi*
+7    west-bank           myanm*     abwehr*   schador              *phob*
+8         gaza          rohing*      oppos*                              
+9      aparth*           bosni*                                          
+10  antisemit*       srebrenica                                          
+11                     hindutv*                                          
+12                        bomb*                                          
+13                       attack                                          
+14                       strike                                          
+   islam_general
+1            dua
+2          quran
+3          koran
+4         hadith
+5      narration
+6       prophet*
+7      gesandter
+8         rasul*
+9        sahaba*
+10         salaf
+11        kalif*
+12       mubarak
+13           eid
+14          deen

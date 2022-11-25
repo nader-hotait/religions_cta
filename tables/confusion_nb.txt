@@ -1,0 +1,30 @@
+Confusion Matrix and Statistics
+
+            predicted_class
+actual_class der_zmd genislam1
+   der_zmd       613       138
+   genislam1     193      1389
+                                         
+               Accuracy : 0.8581         
+                 95% CI : (0.8433, 0.872)
+    No Information Rate : 0.6545         
+    P-Value [Acc > NIR] : < 2.2e-16      
+                                         
+                  Kappa : 0.6811         
+                                         
+ Mcnemar's Test P-Value : 0.002996       
+                                         
+            Sensitivity : 0.9096         
+            Specificity : 0.7605         
+         Pos Pred Value : 0.8780         
+         Neg Pred Value : 0.8162         
+              Precision : 0.8780         
+                 Recall : 0.9096         
+                     F1 : 0.8935         
+             Prevalence : 0.6545         
+         Detection Rate : 0.5954         
+   Detection Prevalence : 0.6781         
+      Balanced Accuracy : 0.8351         
+                                         
+       'Positive' Class : genislam1      
+                                         

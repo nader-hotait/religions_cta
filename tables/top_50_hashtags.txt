@@ -1,0 +1,13 @@
+# A tibble: 10 x 5
+   `1-10`        `11-20`              `21-30`           `31-40`         `41-50`  
+   <chr>         <chr>                <chr>             <chr>           <chr>    
+ 1 #stopmacron   #syria               #kopftuch         #uyghurs        #islamfe~
+ 2 #afghanistan  #gaza                #demohamburg      #uiguren        #savesil~
+ 3 #hanau        #gazaunderattack     #rassismus        #kabul          #islamha~
+ 4 #palestine    #idlib               #freepalestine    #kopftuchverbot #islamop~
+ 5 #china        #ukraine             #coronavirus      #breaking       #palesti~
+ 6 #ramadan      #palestinians        #corona           #cdu            #boycott~
+ 7 #india        #palestinewillbefree #jerusalem        #einestages     #alaqsau~
+ 8 #islam        #taliban             #israel           #palästina      #hijab   
+ 9 #madeinchina  #afd                 #savesheikhjarrah #bds            #skandal~
+10 #islamophobia #uyghur              #france           #delhi          #xinjiang

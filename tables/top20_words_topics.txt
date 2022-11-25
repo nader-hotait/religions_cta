@@ -1,0 +1,50 @@
+Topic 1 Top Words:
+ 	 Highest Prob: get, know, face, need, boy, demolish, call, offic, border, around, look, take, must, read, build, full, name, twitter, made, uk 
+ 	 FREX: get, face, demolish, border, around, look, must, full, beaten, polit, presid, case, order, recent, turkish, british, covid, time, demolit, evid 
+ 	 Lift: 100s, 2nd, 7pm, abe, aleppo, algeria, around, averag, blair, blatant, britain, bustan, caught, cell, childhood, choos, coast, cruelti, depict, diplomat 
+ 	 Score: get, know, need, border, face, boy, demolish, offic, build, read, take, full, must, around, presid, greek, look, let, turkish, later 
+Topic 2 Top Words:
+ 	 Highest Prob: bomb, crime, call, terrorist, strike, dead, tortur, night, want, stop, tri, refuge, sinc, white, kill, go, week, least, ask, drone 
+ 	 FREX: strike, night, want, tri, sinc, week, least, ask, drone, make, car, leav, u., massacr, mother, russian, thousand, airstrik, violenc, burn 
+ 	 Lift: <U+1E63>a<U+1E25>i<U+1E25>, 1000s, 20th, admit, aerial, african, airstrik, american, ammunit, angel, ask, asset, bajrang, began, bleed, bring, burn, casualti, celebr, center 
+ 	 Score: bomb, refuge, want, tortur, strike, night, dead, go, sinc, white, stop, make, mother, least, tri, week, drone, syrian, airstrik, injur 
+Topic 3 Top Words:
+ 	 Highest Prob: deutsch, macht, regierung, millionen, viel, kommt, weiß, wert, sieht, ihrem, palästinensisch, berlin, hetz, politik, verbrechen, dabei, moscheen, täter, dürfen, gerad 
+ 	 FREX: macht, millionen, viel, kommt, wert, ihrem, palästinensisch, berlin, hetz, politik, verbrechen, dürfen, gerad, müssen, opfer, staat, genozid, habe, daran, staaten 
+ 	 Lift: absehbar, ach, ahnung, aktion, alarm, algerien, allesamt, alltag, alt, alten, amt, analys, anfäng, angehen, angehörigen, angreifen, angst, anschläg, antimuslimisch, antisemiten 
+ 	 Score: millionen, macht, viel, regierung, wert, kommt, weiß, politik, sieht, ihrem, hetz, staat, palästinensisch, deutsch, müssen, gerad, verbrechen, leid, uiguren, berlin 
+Topic 4 Top Words:
+ 	 Highest Prob: europa, frankreich, kopftuch, eltern, flüchtling, neue, problem, islamfeindlichkeit, kampf, cdu, allah, rassistisch, wollen, islamisch, polizisten, fragen, paar, thema, mord, islamischen 
+ 	 FREX: europa, kopftuch, eltern, flüchtling, kampf, cdu, allah, fragen, paar, thema, au, gesellschaft, hört, nacht, paradi, gleichzeitig, aussag, diskriminierung, finden, gesandt 
+ 	 Lift: <U+0627><U+0644><U+0644><U+064E><U+0651><U+0647><U+064E>, aktivisten, angeklagt, antworten, arme, ärzte, befinden, beten, ca, ehemalig, einschalten, folter, foto, genannt, gesprochen, gilt, grenzen, großen, hölle, kennen 
+ 	 Score: europa, kopftuch, frankreich, flüchtling, eltern, islamfeindlichkeit, allah, cdu, kampf, neue, wollen, paar, rassistisch, fragen, thema, au, islamischen, mord, islamisch, gesellschaft 
+Topic 5 Top Words:
+ 	 Highest Prob: use, support, uyghur, famili, target, brother, live, pleas, accus, stand, warplan, arab, far, way, work, long, sister, communiti, caus, abus 
+ 	 FREX: support, brother, accus, stand, far, work, long, sister, abus, iran, fear, god, neighborhood, speak, word, power, save, put, aid, atroc 
+ 	 Lift: arson, care, church, civilis, deliber, econom, everyday, famin, jenin, modern, nurs, oman, serbian, somali, train, true, support, access, accuraci, affect 
+ 	 Score: use, support, uyghur, brother, target, pleas, live, accus, warplan, way, far, long, sister, work, abus, iran, fear, stand, east, caus 
+Topic 6 Top Words:
+ 	 Highest Prob: prison, part, account, islam, state, news, ban, claim, leader, victim, facebook, member, moment, unit, releas, airport, western, men, mohammad, rule 
+ 	 FREX: part, account, state, ban, claim, leader, victim, member, moment, unit, airport, western, mohammad, eid, jew, quran, send, forget, german, minist 
+ 	 Lift: civ, danger, describ, goe, madhya, newspap, platform, process, secretari, 100m, actual, affair, agenda, agent, aggressionen, airport, anymor, ardah, articl, audienc 
+ 	 Score: prison, state, account, part, ban, claim, unit, victim, leader, releas, airport, western, member, send, jew, german, forget, news, author, men 
+Topic 7 Top Words:
+ 	 Highest Prob: artikel, tage, westlich, extremist, generat, ahmad, ersten, kurz, youtub, rechten, letzten, problem, u, sure, ibn, modi, neuer, richtig, fake, israelischen 
+ 	 FREX: tage, westlich, extremist, generat, ahmad, ersten, kurz, youtub, u, ibn, modi, neuer, richtig, jährigen, regim, selbstverteidigung, antwort, bruder, vs, feuer 
+ 	 Lift: allgemeinen, ausgebrochen, bar, beerdigung, besatz, bilal, bitteschön, bombardieren, convers, cow, daraus, darstellen, fordert, fußbal, gesicht, gespannt, gewaltigen, gg, hintergründ, hongkong 
+ 	 Score: artikel, tage, neuer, westlich, ersten, rechten, letzten, richtig, extremist, kurz, jährigen, selbstverteidigung, youtub, antwort, tafsir, bruder, israelischen, nsu, ibn, generat 
+Topic 8 Top Words:
+ 	 Highest Prob: destroy, watch, arrest, girl, attack, camp, group, right, show, human, wear, fire, yesterday, terror, jewish, saudi, father, student, countri, young 
+ 	 FREX: watch, arrest, girl, attack, camp, right, show, human, wear, fire, yesterday, jewish, saudi, countri, armi, arm, detain, air, illeg, raid 
+ 	 Lift: ap, armi, associ, begin, beij, born, brave, camera, camp, classroom, concern, cri, criticis, cultur, current, david, deport, doubt, earli, either 
+ 	 Score: destroy, arrest, girl, camp, group, right, watch, show, human, fire, jewish, attack, wear, yesterday, concentr, young, countri, sever, saudi, detain 
+Topic 9 Top Words:
+ 	 Highest Prob: brutal, protest, villag, murder, imam, intern, muhammad, isra, religion, assault, secur, occupi, israel, law, prophet, sheikh, court, sourc, heart, masjid 
+ 	 FREX: brutal, protest, villag, imam, muhammad, isra, religion, assault, israel, law, sheikh, heart, masjid, system, violent, water, citizenship, gate, prevent, racism 
+ 	 Lift: assault, cancer, colonialist, contact, crackdown, dirti, drink, eiffel, fascist, fbi, foul, griffen, heart, indian, liter, mail, malcolm, masaf, masjid, muhammad 
+ 	 Score: villag, protest, murder, brutal, assault, law, sheikh, muhammad, secur, isra, water, masjid, gate, court, major, racism, israel, citizenship, violent, imam 
+Topic 10 Top Words:
+ 	 Highest Prob: palästina, nazi, palästinens, nachdem, zionistisch, weiter, wohl, geschicht, zionistischen, gewalt, ermordet, getötet, soldaten, indien, islamfeindlich, end, famili, afd, eigenen, rassisten 
+ 	 FREX: palästina, nachdem, zionistisch, weiter, wohl, gewalt, getötet, afd, gab, volk, stadt, haus, besetzten, darunt, kolonialismus, bevor, weis, weg, zusammen, brandanschlag 
+ 	 Lift: abartig, aktuel, anfang, angefangen, angehörig, arabern, besatzungskräft, betrieben, bezug, bildzeitung, bombardiert, brenton, corri, daraufhin, dennoch, deutschland, diesmal, distanzieren, dran, drohschreiben 
+ 	 Score: palästinens, palästina, zionistisch, weiter, wohl, geschicht, nachdem, gewalt, soldaten, eigenen, islamfeindlich, ermordet, getötet, afd, rassisten, volk, versucht, indien, gab, zionistischen 

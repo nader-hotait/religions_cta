@@ -1,0 +1,7 @@
+5 x 1 sparse Matrix of class "dgCMatrix"
+                             s1
+(Intercept)        -1.463980324
+grievanceTRUE       1.705930216
+display_text_width -0.004707908
+retweet_count       0.005208284
+favorite_count      0.057276707
